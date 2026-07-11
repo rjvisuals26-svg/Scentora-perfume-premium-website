@@ -78,7 +78,7 @@ A curated look into the refined user interface, progressive disclosure component
 Crafted meticulously to merge technical engineering with visual luxury.
 
 **Pixelandstack** — Full-Stack Web & App Development | UI/UX Design
-*   **Socials:** [@pixelandstack](https://i.ibb.co/ycNwWtQR/Screenshot-2026-07-11-202021.png)
+*   **Socials:** [@pixelandstack](https://www.instagram.com/)
 *   **Services:** Development, Visual Design & Graphic Illustration
 
 <div align="center">
