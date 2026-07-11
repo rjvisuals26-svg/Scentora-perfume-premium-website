@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="Screenshot 2026-07-11 202021.jpg" alt="Scentora Hero Section" width="100%" style="border-radius: 8px;">
+  <img src="https://i.ibb.co/4gZF5P18/Screenshot-2026-07-11-201852.png" alt="Scentora Hero Section" width="100%" style="border-radius: 8px;">
 
   <br><br>
 
@@ -17,7 +17,7 @@
   
   <br><br>
 
-  [**🔴 Live Demo**](#live-link) • [**📂 Repository**](#) • [**✨ Report Bug**](#)
+  [**🔴 Live Demo**](https://scentoraweb.netlify.app/) 
 </div>
 
 ---
@@ -26,10 +26,10 @@
 
 Explore the live digital showroom by clicking the link below or scanning the QR code directly from your screen.
 
-> **💫 Live Link:** [scentora.netlify.app](#) *(Update with your live link)*
+> **💫 Live Link:** [https://scentoraweb.netlify.app/](#) 
 
 <div align="center">
-  <img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://your-live-link.com&color=2D2B2A&bgcolor=F4F0EA" alt="Scentora QR Code" width="150" style="border: 4px solid #C19A6B; border-radius: 10px; padding: 10px;">
+  <img src="https://i.ibb.co/MYNWM2g/qrcode-372934423-005ec62665ac38420c67760ab5a50681.png" alt="Scentora QR Code" width="150" style="border: 4px solid #C19A6B; border-radius: 10px; padding: 10px;">
   <p><i>Scan to view the mobile-optimized experience</i></p>
 </div>
 
