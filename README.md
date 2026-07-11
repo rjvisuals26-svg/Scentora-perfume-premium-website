@@ -16,10 +16,6 @@
   <img src="https://img.shields.io/badge/Deployed_on-Netlify-2D2B2A?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify">
   
   <br><br>
-
-  [**🔴 Live Demo**](https://scentoraweb.netlify.app/) 
-</div>
-
 ---
 
 ## 🏺 Live Experience & Access
@@ -42,14 +38,14 @@ A curated look into the refined user interface, progressive disclosure component
 | 🍂 **The Collections** | 💫 **Best Sellers** |
 |:---:|:---:|
 | *Discover scents categorized by nature's finest elements.* | *A dynamic showcase of the most loved fragrances.* |
-| <img src="Screenshot 2026-07-11 202043.jpg" alt="Collections" width="100%"> | <img src="Screenshot 2026-07-11 202112.jpg" alt="Best Sellers" width="100%"> |
+| <img src="https://i.ibb.co/RkwJCgdf/Screenshot-2026-07-11-202043.png" alt="Collections" width="100%"> | <img src="https://i.ibb.co/ycNwWtQR/Screenshot-2026-07-11-202021.png" alt="Best Sellers" width="100%"> |
 
 <br>
 
 <div align="center">
   <h3>✨ Product Detail Experience ✨</h3>
   <p><i>Immersive product views crafted for timeless evenings.</i></p>
-  <img src="image_e9bb37.jpg" alt="Scentora Product Page - No. 07 Élan Noir" width="85%" style="border: 1px solid #EADDCA; box-shadow: 0px 4px 15px rgba(0,0,0,0.05);">
+  <img src="https://i.ibb.co/NgFpfwd7/Screenshot-2026-07-11-202112.png" alt="Scentora Product Page - No. 07 Élan Noir" width="85%" style="border: 1px solid #EADDCA; box-shadow: 0px 4px 15px rgba(0,0,0,0.05);">
 </div>
 
 ---
