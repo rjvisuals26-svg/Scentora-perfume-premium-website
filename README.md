@@ -69,7 +69,6 @@ A curated look into the refined user interface, progressive disclosure component
 </div>
 
 *   **Frontend Design:** HTML5 / CSS3 / JavaScript
-*   **Database/Storage:** Google Firebase & Firestore *(Remove if purely static)*
 *   **Hosting & Deployment:** Netlify
 
 ---
@@ -78,7 +77,7 @@ A curated look into the refined user interface, progressive disclosure component
 
 Crafted meticulously to merge technical engineering with visual luxury.
 
-**Pixeland** — Full-Stack Web & App Development | UI/UX Design
+**Pixelandstack** — Full-Stack Web & App Development | UI/UX Design
 *   **Socials:** [@pixelandstack](https://instagram.com/pixelandstack)
 *   **Services:** Development, Visual Design & Graphic Illustration
 
